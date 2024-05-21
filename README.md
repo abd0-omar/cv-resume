@@ -3,4 +3,4 @@
 
 [resume.pdf](https://github.com/abd0-omar/cv-resume/files/15326959/resume.pdf)
 
-It was made using this template [modern-cv](https://typst.app/universe/package/modern-cv/)
+It was made using this [template](https://typst.app/universe/package/modern-cv/)
