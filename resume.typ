@@ -61,7 +61,7 @@
 
 #resume-item[
   - Implemented a Newsletter's api in Rust using axum framework and PostgreSQL with Docker and Github Actions.
-  - Wrote extensive unit/integration tests for the api.
+  - Wrote extensive unit/integration tests for the api and added logging and metrics.
 ]
 
 #resume-entry(
@@ -72,7 +72,7 @@
 )
 
 #resume-item[
-  - Designed a URL-Shortener using Rust with the framework axum and PostgreSQL.
+  - Designed a URL-Shortener using Rust with the framework axum and PostgreSQL along with loggings, metrics and statistics.
   - Wrote Frontend using HTMX, Tailwind CSS and Askama template engine.
 ]
 
